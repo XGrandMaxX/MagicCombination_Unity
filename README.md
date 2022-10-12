@@ -1,4 +1,4 @@
-# MagicCombination_Unity
+# MagicCombination Unity2D game
 Unity2D Platform
 
 game - https://xgrandmaxx.itch.io/magic-combination
